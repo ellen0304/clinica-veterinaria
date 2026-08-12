@@ -16,7 +16,7 @@ Facilitar a organização dos atendimentos veterinários e centralizar informaç
 * Voluntários
 * Tutores e responsáveis pelos animais
 
-##Funcionalidades
+## Funcionalidades
 
 As funcionalidades serão definidas durante o desenvolvimento do projeto. Entre as possibilidades estão:
 
